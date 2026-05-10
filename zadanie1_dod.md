@@ -1,7 +1,8 @@
 # Technologie chmurowe Zadanie nr 1 część nieobowiązkowa punkt 2
 ## Piotr Zalewski I1S6 TI 6.2
 
-Aplikacja webowa wyświetlająca informacje o pogodzie w wybranym miejscu z listy dostępnych. Jest zbudowana w oparciu obraz bazowy z Node.js i Alpine.
+### Opis aplikacji:
+Aplikacja webowa wyświetlająca informacje o pogodzie w wybranym miejscu z listy dostępnych. Jest zbudowana w oparciu o obraz bazowy z Node.js i Alpine.
 
 ### Instrukcja uruchomienia:
 1. Utworzyć nowy katalog i pobrać do niego zawartość repozytorium: `https://github.com/pzlab33/zadanie1`
