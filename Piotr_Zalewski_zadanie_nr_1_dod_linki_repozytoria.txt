@@ -1,0 +1,4 @@
+Piotr Zalewski I1S6 TI 6.2 Technologie chmurowe
+Linki do repozytoriów z zadaniem nr 1 (część nieobowiązkowa):
+DockerHub: https://hub.docker.com/r/pzlab33/weather-app/tags
+GitHub: https://github.com/pzlab33/zadanie1
